@@ -6,3 +6,4 @@ curl https://www.7-zip.org/a/7zr.exe --output 7zr.exe
 7z a dir.zip \dir\*
 7z x *.zip -o\dir
 Expand-Archive *.zip -DestinationPath \dir
+
